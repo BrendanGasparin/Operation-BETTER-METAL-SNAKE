@@ -1,7 +1,10 @@
-# Project-COMPENDIA
+# Operation: BETTER METAL SNAKE
 
-Project: COMPENDIA is the construction of an online course website.
+Operation: BETTER METAL SNAKE is the construction and running of an online business.
 
 Here are links to:
-- The [[devlog|Developer Log]].
+- The [Developer Log](./devlog/devlog) for the website.
+- My [website](https://brendangasparin.com/).
+- My [YouTube channel](https://youtube.com/@brendangasparin).
+
 

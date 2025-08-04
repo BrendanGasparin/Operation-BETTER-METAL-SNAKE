@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devlog/devlog.md",
+                "file": "devlog/2025/08-August/August-2025.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "devlog"
+              "title": "August-2025"
             }
           }
         ]
@@ -170,8 +170,17 @@
   },
   "active": "f73b81592210e7d2",
   "lastOpenFiles": [
-    "README.md",
+    "2025/07-July/July-2025.md",
+    "devlog/2025/08-August/August-2025.md",
     "devlog/devlog.md",
+    "README.md",
+    "devlog/2025/07-July/July-2025.md",
+    "2025/07-July",
+    "2025",
+    "devlog/2025/2025.md",
+    "devlog/2025/08-August",
+    "devlog/2025/07-July",
+    "devlog/2025",
     "devlog"
   ]
 }
