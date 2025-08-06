@@ -1,9 +1,33 @@
+# August 2025  
+
+## Day 10: Thursday 7 August 2025 - Hobart, Tasmania  
+### Completed Tasks  
+- Fixed typos and updated date and contact email in the Privacy Policy and Terms and Conditions of the website.  
+
+### Thoughts  
+0230 hours  
+There's not much time left in the week and I still have to proofread and write the final draft of a blog entry. I have written two documents, each about 1000 words, that I can choose for my returning blog post.  I believe I'll choose the simpler one, an article about the basics of computers.  
+
+## Day 9: Wednesday 6 August 2025 - Hobart Tasmania
+### Completed Tasks  
+- Filmed a video for the vlog.
+
+### Thoughts  
+Got very little accomplished.  
+
+
+## Day 8: Tuesday 5 August 2025 - Hobart, Tasmania
+### Completed Tasks
+- Wrote a blog article on computer basics.  
+
+
 ## Day 7: Monday 4 August 2025 - Hobart, Tasmania
 ### Completed Tasks
 - Beta-tested the newsletter submit form on my Mum and modified the UI accordingly. Although she uses Outlook, the email didn't trigger her spam filter.
 - Finished the blog post. It's called 7 Reasons to Learn the C Programming Language. I will upload it on the weekend.
 - Fixed meta og and twitter tag URLs on all pages of the base website. They were pointed at GitHub.
-- Completed and uploaded this devlog to Github for the first time.
+- Completed and uploaded this devlog to Github for the first time.  
+
 ### Thoughts
 1500 hours
 Initially I thought I'd call this Project: COMPENDIA because it's essentially an effort to create digital compendia on a website. But the way I envisioned it originally, Project: MATRIX CORE was the creation of my website.
