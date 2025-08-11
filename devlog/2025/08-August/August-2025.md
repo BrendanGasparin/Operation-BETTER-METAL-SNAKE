@@ -1,5 +1,20 @@
 # August 2025  
 
+## Day 13: Monday 11 August 2025 - Hobart, Tasmania  
+### Tasks
+
+
+## Day 12: Saturday 9 August 2025 - Hobart Tasmania
+### Tasks  
+- Finished filming and editing vlog  
+- Uploaded blog and vlog.  
+- Sent out newsletter to email list.  
+
+## Day 11: Friday 8 August 2025 - Hobart Tasmania  
+### Tasks  
+- Proofread and edited blog post.
+- Edited together most of the vlog.  
+
 ## Day 10: Thursday 7 August 2025 - Hobart, Tasmania  
 ### Completed Tasks  
 - Fixed typos and updated date and contact email in the Privacy Policy and Terms and Conditions of the website.  
