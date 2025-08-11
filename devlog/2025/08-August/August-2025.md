@@ -1,6 +1,6 @@
 # August 2025  
 
-## Day 13: Monday 11 August 2025 - Hobart, Tasmania  
+## Day 14: Monday 11 August 2025 - Hobart, Tasmania  
 ### Tasks  
 - Updated the canonical links on my Medium articles to point to the new blog post locations.  
 - Put a heading on the most recent blog post on my website.  
