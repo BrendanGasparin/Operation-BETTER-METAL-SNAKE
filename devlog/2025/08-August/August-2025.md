@@ -1,7 +1,14 @@
 # August 2025  
 
 ## Day 13: Monday 11 August 2025 - Hobart, Tasmania  
-### Tasks
+### Tasks  
+- Updated the canonical links on my Medium articles to point to the new blog post locations.  
+- Put a heading on the most recent blog post on my website.  
+- Added a pin to my Pinterest account pointing to my blog post.  
+
+### Thoughts
+1159 hours  
+The links at the bottom of my Medium articles still point to the old, broken URLs, despite the fact that the canonical links in the source code are now correct. I should implement URL redirects in Apache to point the old article URLs to the new articles.  
 
 
 ## Day 12: Saturday 9 August 2025 - Hobart Tasmania
