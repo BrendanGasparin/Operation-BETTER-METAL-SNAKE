@@ -1,5 +1,20 @@
 # August 2025  
 
+
+## Day 16: Wednesday 13 August 2025 - Hobart, Tasmania  
+### Tasks  
+- Fix meta charset tags on website.  
+- Proofread this week's blog article.  
+- Put last week's blog article on Medium.  
+- Schedule this week's blog article on WordPress.  
+- Schedule newsletter.  
+
+
+## Day 15: Tuesday 12 August 2025 - Hobart, Tasmania  
+### Tasks  
+- Write this week's blog article.  
+
+
 ## Day 14: Monday 11 August 2025 - Hobart, Tasmania  
 ### Tasks  
 - Updated the canonical links on my Medium articles to point to the new blog post locations.  
